@@ -1,0 +1,17 @@
+.bx-wrapper .bx-pager.bx-default-pager a {
+  width: 5px;
+  height: 5px;
+}
+
+.bx-wrapper {
+  margin-bottom: 35px;
+  box-shadow: none !important;
+}
+
+.bx-wrapper .bx-next {
+  right: 16px !important;
+}
+
+.bx-wrapper .bx-prev {
+  left: 16px !important;
+}
